@@ -54,7 +54,7 @@ You will want these as the bare minimum:
 
 You can find everything [here](https://sourceforge.net/projects/ophcrack/files/tables/)
 
-For some, you will have to download the contents one by one and put them into a folder manually. It will take some time but its worth. 
+For some, you will have to download the contents one by one and put them into a folder manually. It will take some time but its worth. (you will have to do this for multiple folders)
 
 Then once your folder is built and has all of its tables you can upload them by clicking the tables tab in ophcrack. 
 
