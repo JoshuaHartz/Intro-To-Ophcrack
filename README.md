@@ -43,7 +43,20 @@ Note the semicolon in the middle of the hash. Its a dead giveaway.
 
 Now whats a hash cracking program good for if we dont have rainbowtables/wordlists. Luckily ophcrack provides a metric TON of rainbow tables that you can use. In short a rainbow table is a set of reversed hashes used to crack other hashes.
 
-They have a section on source forge with all the tables for you but some of them arent fully downlaodable and you kinda have to build them yourself, but luckily I had nothing better to do and I made them for you. Due to github filesize limitations I cant add them here so ill add them to a google drive. 
+Due to limitations to storage size I cant upload the rainbow tables but I can however tell you how to craft them.
+
+You will want these as the bare minimum:
+1. tables_vista_free
+2. tables_xp_free_fast
+3. tables_xp_free_small
+4. Vistal Special
+5. XP special
+
+You can find everything [here](https://sourceforge.net/projects/ophcrack/files/tables/)
+
+For some, you will have to download the contents one by one and put them into a folder manually. It will take some time but its worth. 
+
+Then once your folder is built and has all of its tables you can upload them by clicking the tables tab in ophcrack. 
 
 
 
